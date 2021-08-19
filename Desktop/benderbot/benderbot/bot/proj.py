@@ -1,5 +1,5 @@
 #This script uses tweet samples to train a model to determine whether a given phrase is positive or negative
-
+#Comment
 import nltk
 import re, string
 from nltk.corpus import twitter_samples
