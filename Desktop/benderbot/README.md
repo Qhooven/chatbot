@@ -1,13 +1,3 @@
-Link to demo video:
-https://www.dropbox.com/s/hszxmx9tm3fw1e7/zoom_1.mp4?dl=0
-
-First party packages used:
-random
-time
-
-Third party packages:
-Django
-nltk
 
 
 Instructions:
